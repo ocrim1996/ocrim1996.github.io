@@ -1,0 +1,7 @@
+.pull-left{
+    width: 50%;
+    float: left;
+    border: 2px solid black;
+    margin: 0px 30px 20px 0px;
+    box-shadow: 5px 5px 20px darkslategrey;
+}
