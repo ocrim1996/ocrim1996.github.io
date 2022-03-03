@@ -2,8 +2,7 @@
 The emojify function can be called directly in templates or Inline Shortcodes.
 To enable emoji globally, set enableEmoji to true in your site configuration and then you can type emoji shorthand codes directly in content files.
 These begin and end with a colon and include the code of an emoji:
-Gone camping! {?:}tent: Be back soon. That is so funny!</description></item><item><title>Wordle</title><link>https://ocrim1996.github.io/projects/wordle/</link><pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate><guid>https://ocrim1996.github.io/projects/wordle/</guid><description>Wordle
-Wordle is a daily word game where players have six attempts to guess a five letter word.
+Gone camping! {?:}tent: Be back soon. That is so funny!</description></item><item><title>Wordle</title><link>https://ocrim1996.github.io/projects/wordle/</link><pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate><guid>https://ocrim1996.github.io/projects/wordle/</guid><description>Wordle Wordle is a daily word game where players have six attempts to guess a five letter word.
 In this project the Wordle game was developed to be executed from the command line.
 Available languages:
 Italian English To Run To run the project:
